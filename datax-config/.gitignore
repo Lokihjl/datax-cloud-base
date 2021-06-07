@@ -1,0 +1,17 @@
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*/target
+
+target
+.idea
+.classpath
+.project
+.settings
+*.classpath
+*.project
+*.settings
+*.iml
